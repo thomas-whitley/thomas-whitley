@@ -5,6 +5,6 @@ Software developer in Melbourne. Two years on a back office and point of sale pl
 Outside work:
 
 - **NextSet** (this profile): training tracker in React Native and TypeScript on Supabase and PostgreSQL, in closed testing on Google Play.
-- **ludoelectrical.com**: a client site on Astro and Cloudflare Workers with a TypeScript Worker API behind the quote form. The repository is private because it is client work; the site goes live once the client's contractor registration arrives.
+- **ludoelectrical.com**: a client site on Astro and Cloudflare Workers with a TypeScript Worker API behind the quote form. Live at https://ludoelectrical.com/. The repository is private because it is client work.
 
 Work code lives in private company repositories, so this profile shows the side projects. More on LinkedIn: linkedin.com/in/thomasbwhitley
