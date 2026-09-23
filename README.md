@@ -1,6 +1,6 @@
 # Thomas Whitley
 
-Software developer in Melbourne. Two years on a back office and point of sale platform for independent supermarkets (SQL Server, REST integrations, a compiler and Unicode upgrade across a twenty year old codebase), and the last year putting AI to work inside it: Claude Code skills that drive and test the application, a read-only query tool with a keyword guard and row cap so agents can read production shaped data safely, and an AI second opinion inside purchase ordering, backed by a LightGBM model I built as a FastAPI service.
+Software developer in Melbourne. Two years on a back office and point of sale platform for supermarkets and retailers (SQL Server, REST integrations, a compiler and Unicode upgrade across a twenty year old codebase), and the last year putting AI to work inside it: Claude Code skills that drive and test the application, a read-only query tool with a keyword guard and row cap so agents can read production shaped data safely, and an AI second opinion inside purchase ordering, backed by a LightGBM model I built as a FastAPI service.
 
 Outside work:
 
